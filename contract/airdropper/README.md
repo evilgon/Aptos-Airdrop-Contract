@@ -1,1 +1,0 @@
-# airdropper smart contract
